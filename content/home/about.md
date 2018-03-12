@@ -35,4 +35,4 @@ weight = 5
 
 # Biografia
 
-Bruno Geronymo é um pesquisador da área de matemática e estatística, atualmente cursando Estatística pela UFPR e se aprofundando em Teoria do Risco.
+Bruno Geronymo atualmente é estudante de Estatística na Universidade Federal do Paraná ([UFPR](http://www.ufpr.br)). Possui vasta experiência no meio acadêmico e desenvolve materiais de apoio para estudantes de estatística e matemática.
