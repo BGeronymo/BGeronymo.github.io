@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BGuide"]
+tags = ["Ensino"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -24,11 +24,11 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "Guia de Estudos para Estatística e Matemática :smile:"
+caption = "BGuide :smile:"
 
 +++
 
-# *BGuide* - Guia de Estudos para Estatística e Matemática
+# Guia de Estudos para Estatística e Matemática
 
 ## Descrição
 
@@ -36,4 +36,4 @@ O *BGuide* é  um projeto que reúne grandes obras das áreas de estatística e 
 
 ## Projetos em Andamento
 
-[*BGuide - Cálculo 1*](https://bgeronymo.github.io/project/BGuide-Calculo1/)
+[*BGuide - Cálculo 1*](https://bgeronymo.github.io/project/bguide-calculo1/)
