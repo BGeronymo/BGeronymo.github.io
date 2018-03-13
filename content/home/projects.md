@@ -33,12 +33,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "BGuide"
-  tag = ".BGuide"
+  name = "Ensino"
+  tag = ".Ensino"
 
-[[filter]]
-  name = "Other"
-  tag = ".demo"
+#[[filter]]
+#  name = "Other"
+#  tag = ".demo"
 
 +++
 

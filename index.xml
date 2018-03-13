@@ -26,19 +26,30 @@
 
 &lt;h2 id=&#34;projetos-em-andamento&#34;&gt;Projetos em Andamento&lt;/h2&gt;
 
-&lt;h3 id=&#34;bguide-cálculo-1&#34;&gt;&lt;em&gt;BGuide - Cálculo 1&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bgeronymo.github.io/project/BGuide-Calculo1/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;BGuide - Cálculo 1&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BGuide - Cálculo 1</title>
+      <link>https://bgeronymo.github.io/project/bguide-calculo1/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/project/bguide-calculo1/</guid>
+      <description>
 
-&lt;h4 id=&#34;descrição-1&#34;&gt;Descrição&lt;/h4&gt;
+&lt;h1 id=&#34;bguide-cálculo-1&#34;&gt;&lt;em&gt;BGuide - Cálculo 1&lt;/em&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;descrição&#34;&gt;Descrição&lt;/h2&gt;
 
 &lt;p&gt;O &lt;em&gt;BGuide - Cálculo 1&lt;/em&gt; é um material de sintetização e resolução dos exercícios
 propostos no livro &lt;em&gt;Um Curso de Cálculo, Volume 1, 5ª Edição&lt;/em&gt; de &lt;em&gt;Hamilton Luiz
 Guidorizzi&lt;/em&gt;. Traz diversos recursos computacionais para auxiliar na visualização
 do problema e no aprendizado da linguagem &lt;em&gt;R&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h4 id=&#34;acesso-ao-material&#34;&gt;Acesso ao Material&lt;/h4&gt;
+&lt;h2 id=&#34;acesso-ao-material&#34;&gt;Acesso ao Material&lt;/h2&gt;
 
-&lt;p&gt;Para abrir o material basta acessar a pasta &lt;a href=&#34;https://github.com/BGeronymo/BGuide/tree/master/Calculo%201/_book&#34; target=&#34;_blank&#34;&gt;_book&lt;/a&gt; e, em
-seguida, abrir o arquivo &lt;a href=&#34;https://github.com/BGeronymo/BGuide/blob/master/Calculo%201/_book/Calculo-1.pdf&#34; target=&#34;_blank&#34;&gt;Calculo-1.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;hhttps://github.com/BGeronymo/BGuide/raw/master/Calculo%201/_book/Calculo-1.pdf&#34; target=&#34;_blank&#34;&gt;BGuide - Cálculo 1&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,15 +61,6 @@ seguida, abrir o arquivo &lt;a href=&#34;https://github.com/BGeronymo/BGuide/blo
       <guid>https://bgeronymo.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://bgeronymo.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgeronymo.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>
