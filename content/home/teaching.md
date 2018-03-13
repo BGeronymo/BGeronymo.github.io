@@ -20,4 +20,4 @@ weight = 60
 | :------- | :----------------                     | :-----------------  | :-----:  | :----: | :--------: |
 | CE-080   | Fundamentos Básicos para Estatística  | Estatística         | [PSE][1] |   2018 |          1 |
 
-[1]: http://www.olamundo.com
+[1]: https://bgeronymo.github.io/project/pse-2018
