@@ -9,7 +9,7 @@ title = "BGuide"
 summary = "Guia de estudos para estatística e matemática."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "BGuide1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
