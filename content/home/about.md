@@ -35,4 +35,6 @@ weight = 5
 
 # Biografia
 
-Bruno Geronymo atualmente é estudante de Estatística na Universidade Federal do Paraná ([UFPR](http://www.ufpr.br)). Possui vasta experiência no meio acadêmico e desenvolve materiais de apoio para estudantes de estatística e matemática.
+Bruno Geronymo atualmente é estudante de Estatística na Universidade Federal do Paraná ([UFPR](http://www.ufpr.br)), monitor de Fundamentos Básicos para Estatística (CE080) pelo Programa de Iniciação à Docência ([PID](http://www.prograd.ufpr.br/portal/copeg/monitoriapidpim/)) e estagiário no [Banco Bradesco S.A (BR)](https://banco.bradesco/html/classic/index.shtm).
+
+Possui vasta experiência no meio acadêmico tendo participado do Programa de Iniciação à Docência ([PID](http://www.prograd.ufpr.br/portal/copeg/monitoriapidpim/)) e do Programa de Educação Tutorial ([PET](http://www.pet.est.ufpr.br/)).
