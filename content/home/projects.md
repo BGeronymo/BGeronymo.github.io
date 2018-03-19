@@ -36,6 +36,10 @@ filter_default = 0
   name = "Ensino"
   tag = ".Ensino"
 
+[[filter]]
+  name = "Projetos Coletivos"
+  tag = ".Coletivos"
+
 #[[filter]]
 #  name = "Other"
 #  tag = ".demo"
