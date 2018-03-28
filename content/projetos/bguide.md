@@ -30,12 +30,17 @@ caption = "BGuide"
 
 # Guia de Estudos para Estatística e Matemática
 
-## Descrição
-
-O *BGuide* é  um projeto que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de todos os exercícios propostos nos livros. O diferencial do projeto é a inclusão de soluções no software [R de computação estatística](https://www.r-project.org/). O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística pela Universidade Federal do Paraná. O nome *BGuide* é uma referência ao nome do autor do projeto e a palavra *Guide*, pode-se entender pelo nome que trata-se de um *"Guia de Estudos do Bruno Geronymo"*.
+O *BGuide* é  um material que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de exercícios selecionados dos livros. O material busca incluir soluções no software [R de computação estatística](https://www.r-project.org/). O projeto é desenvolvido por [Bruno Geronymo](https://bgeronymo.github.io), estudante de Estatística na Universidade Federal do Paraná ([UFPR](http://www.ufpr.br/portalufpr/)). O nome *BGuide* é uma referência ao nome e sobrenome do autor do projeto e a palavra *Guide*, ou seja, trata-se de um *"Guia de Estudos do Bruno Geronymo"*.
 
 Para acompanhar o andamento do projeto basta acessar a página do [GitHub](https://github.com/BGeronymo/BGuide). Para retirar dúvidas, colaborar com o projeto e sugerir melhorias entre em contato através do meu e-mail (<geronymobruno@hotmail.com>).
 
-## Projetos em Andamento
+# Projetos em Andamento
 
-[**BGuide - Cálculo 1**](https://bgeronymo.github.io/projetos/bguide/calculo1/)
+## BGuide - Cálculo 1
+
+O *BGuide - Cálculo 1* é um material de sintetização e resolução de exercícios
+selecionados do livro *Um Curso de Cálculo, Volume 1, 5ª Edição* de *Hamilton
+Luiz Guidorizzi*. Traz diversos recursos computacionais para auxiliar na
+visualização do problema e no aprendizado da linguagem *R*.
+
+**Link**: [Visualizar PDF](https://bgeronymo.github.io/projetos/bguide/calculo-1.pdf), [**Diretório GitHub**](https://github.com/BGeronymo/Bguide/tree/master/Calculo 1)

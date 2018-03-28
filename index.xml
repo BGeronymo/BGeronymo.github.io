@@ -20,36 +20,20 @@
 
 &lt;h1 id=&#34;guia-de-estudos-para-estatística-e-matemática&#34;&gt;Guia de Estudos para Estatística e Matemática&lt;/h1&gt;
 
-&lt;h2 id=&#34;descrição&#34;&gt;Descrição&lt;/h2&gt;
-
-&lt;p&gt;O &lt;em&gt;BGuide&lt;/em&gt; é  um projeto que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de todos os exercícios propostos nos livros. O diferencial do projeto é a inclusão de soluções no software &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R de computação estatística&lt;/a&gt;. O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística pela Universidade Federal do Paraná. O nome &lt;em&gt;BGuide&lt;/em&gt; é uma referência ao nome do autor do projeto e a palavra &lt;em&gt;Guide&lt;/em&gt;, pode-se entender pelo nome que trata-se de um &lt;em&gt;&amp;ldquo;Guia de Estudos do Bruno Geronymo&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;O &lt;em&gt;BGuide&lt;/em&gt; é  um material que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de exercícios selecionados dos livros. O material busca incluir soluções no software &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R de computação estatística&lt;/a&gt;. O projeto é desenvolvido por &lt;a href=&#34;https://bgeronymo.github.io&#34; target=&#34;_blank&#34;&gt;Bruno Geronymo&lt;/a&gt;, estudante de Estatística na Universidade Federal do Paraná (&lt;a href=&#34;http://www.ufpr.br/portalufpr/&#34; target=&#34;_blank&#34;&gt;UFPR&lt;/a&gt;). O nome &lt;em&gt;BGuide&lt;/em&gt; é uma referência ao nome e sobrenome do autor do projeto e a palavra &lt;em&gt;Guide&lt;/em&gt;, ou seja, trata-se de um &lt;em&gt;&amp;ldquo;Guia de Estudos do Bruno Geronymo&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Para acompanhar o andamento do projeto basta acessar a página do &lt;a href=&#34;https://github.com/BGeronymo/BGuide&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. Para retirar dúvidas, colaborar com o projeto e sugerir melhorias entre em contato através do meu e-mail (&lt;a href=&#34;mailto:geronymobruno@hotmail.com&#34; target=&#34;_blank&#34;&gt;geronymobruno@hotmail.com&lt;/a&gt;).&lt;/p&gt;
 
-&lt;h2 id=&#34;projetos-em-andamento&#34;&gt;Projetos em Andamento&lt;/h2&gt;
+&lt;h1 id=&#34;projetos-em-andamento&#34;&gt;Projetos em Andamento&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://bgeronymo.github.io/projetos/bguide/calculo1/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BGuide - Cálculo 1&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BGuide - Cálculo 1</title>
-      <link>https://bgeronymo.github.io/projetos/bguide/calculo1/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgeronymo.github.io/projetos/bguide/calculo1/</guid>
-      <description>
+&lt;h2 id=&#34;bguide-cálculo-1&#34;&gt;BGuide - Cálculo 1&lt;/h2&gt;
 
-&lt;h1 id=&#34;descrição&#34;&gt;Descrição&lt;/h1&gt;
+&lt;p&gt;O &lt;em&gt;BGuide - Cálculo 1&lt;/em&gt; é um material de sintetização e resolução de exercícios
+selecionados do livro &lt;em&gt;Um Curso de Cálculo, Volume 1, 5ª Edição&lt;/em&gt; de &lt;em&gt;Hamilton
+Luiz Guidorizzi&lt;/em&gt;. Traz diversos recursos computacionais para auxiliar na
+visualização do problema e no aprendizado da linguagem &lt;em&gt;R&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;O &lt;em&gt;BGuide - Cálculo 1&lt;/em&gt; é um material de sintetização e resolução dos exercícios
-propostos no livro &lt;em&gt;Um Curso de Cálculo, Volume 1, 5ª Edição&lt;/em&gt; de &lt;em&gt;Hamilton Luiz
-Guidorizzi&lt;/em&gt;. Traz diversos recursos computacionais para auxiliar na visualização
-do problema e no aprendizado da linguagem &lt;em&gt;R&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;acesso-ao-material&#34;&gt;Acesso ao Material&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;BGuide - Cálculo 1&lt;/strong&gt;: &lt;a href=&#34;https://github.com/BGeronymo/BGuide/raw/master/Calculo%201/_book/Calculo-1.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;; &lt;a href=&#34;https://github.com/BGeronymo/Bguide/tree/master/Calculo 1&#34; target=&#34;_blank&#34;&gt;GitHub Page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://bgeronymo.github.io/projetos/bguide/calculo-1.pdf&#34; target=&#34;_blank&#34;&gt;Visualizar PDF&lt;/a&gt;, &lt;a href=&#34;https://github.com/BGeronymo/Bguide/tree/master/Calculo 1&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Diretório GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -18,17 +18,7 @@
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://bgeronymo.github.io/projetos/bguide/</guid>
-      <description>Guia de Estudos para Estatística e Matemática Descrição O BGuide é um projeto que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de todos os exercícios propostos nos livros. O diferencial do projeto é a inclusão de soluções no software R de computação estatística. O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística pela Universidade Federal do Paraná.</description>
-    </item>
-    
-    <item>
-      <title>BGuide - Cálculo 1</title>
-      <link>https://bgeronymo.github.io/projetos/bguide/calculo1/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgeronymo.github.io/projetos/bguide/calculo1/</guid>
-      <description>Descrição O BGuide - Cálculo 1 é um material de sintetização e resolução dos exercícios propostos no livro Um Curso de Cálculo, Volume 1, 5ª Edição de Hamilton Luiz Guidorizzi. Traz diversos recursos computacionais para auxiliar na visualização do problema e no aprendizado da linguagem R.
-Acesso ao Material BGuide - Cálculo 1: Download PDF; GitHub Page</description>
+      <description>Guia de Estudos para Estatística e Matemática O BGuide é um material que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de exercícios selecionados dos livros. O material busca incluir soluções no software R de computação estatística. O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística na Universidade Federal do Paraná (UFPR). O nome BGuide é uma referência ao nome e sobrenome do autor do projeto e a palavra Guide, ou seja, trata-se de um &amp;ldquo;Guia de Estudos do Bruno Geronymo&amp;rdquo;.</description>
     </item>
     
     <item>
