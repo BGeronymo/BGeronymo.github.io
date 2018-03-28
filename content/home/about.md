@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Estatística",
-    "Matemática",
-    "Teoria do Risco"
+    "Cálculo",
+    "Teoria do Risco",
+    "Amostragem por Conjuntos Ordenados"
   ]
 
 # List your qualifications (such as academic degrees).
