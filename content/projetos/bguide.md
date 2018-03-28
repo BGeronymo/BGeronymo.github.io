@@ -38,4 +38,4 @@ Para acompanhar o andamento do projeto basta acessar a página do [GitHub](https
 
 ## Projetos em Andamento
 
-[*BGuide - Cálculo 1*](https://bgeronymo.github.io/project/bguide-calculo1/)
+[**BGuide - Cálculo 1**](https://bgeronymo.github.io/projetos/bguide/calculo1/)
