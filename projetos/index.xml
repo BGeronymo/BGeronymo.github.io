@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Bruno Geronymo</title>
+    <link>https://bgeronymo.github.io/projetos/</link>
+    <description>Recent content in Projetos on Bruno Geronymo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Bruno Geronymo</copyright>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bgeronymo.github.io/projetos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BGuide</title>
+      <link>https://bgeronymo.github.io/projetos/bguide/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/bguide/</guid>
+      <description>Guia de Estudos para Estatística e Matemática Descrição O BGuide é um projeto que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de todos os exercícios propostos nos livros. O diferencial do projeto é a inclusão de soluções no software R de computação estatística. O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística pela Universidade Federal do Paraná.</description>
+    </item>
+    
+    <item>
+      <title>BGuide - Cálculo 1</title>
+      <link>https://bgeronymo.github.io/projetos/bguide-calculo1/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/bguide-calculo1/</guid>
+      <description>Descrição O BGuide - Cálculo 1 é um material de sintetização e resolução dos exercícios propostos no livro Um Curso de Cálculo, Volume 1, 5ª Edição de Hamilton Luiz Guidorizzi. Traz diversos recursos computacionais para auxiliar na visualização do problema e no aprendizado da linguagem R.
+Acesso ao Material BGuide - Cálculo 1: Download PDF; GitHub Page</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos Básicos Para Estatística - CE080</title>
+      <link>https://bgeronymo.github.io/projetos/pse-2018/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/pse-2018/</guid>
+      <description>Os materiais abaixo buscam auxiliar na compreensão e nos estudos dos assuntos tratados na matéria Fundamentos Básicos para Estatística (CE080) ministrada pela professora Fernanda Buhrer Rizzato no primeiro semestre de 2018 para os candidatos presentes na terceira fase de seleção de acadêmicos do curso de Estatística da Universidade Federal do Paraná (UFPR).
+Materiais Desenvolvidos Material de Apoio - CE080 (Pré-cálculo) Desenvolvido por Bruno Geronymo (Estudante de Estatística na UFPR) e orientado pela Fernanda Buhrer Rizzato (Professora do Departamento de Estatística da UFPR).</description>
+    </item>
+    
+    <item>
+      <title>LabestData</title>
+      <link>https://bgeronymo.github.io/projetos/labestdata/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/labestdata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,7 +17,8 @@ copyright = "&copy; 2018 Bruno Geronymo"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.R$", "\\.sh$", "\\.txt$"]
+
 preserveTaxonomyNames = true
 paginate = 10
 
