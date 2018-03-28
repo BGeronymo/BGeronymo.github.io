@@ -43,4 +43,4 @@ selecionados do livro *Um Curso de Cálculo, Volume 1, 5ª Edição* de *Hamilto
 Luiz Guidorizzi*. Traz diversos recursos computacionais para auxiliar na
 visualização do problema e no aprendizado da linguagem *R*.
 
-**Link**: [Visualizar PDF](https://bgeronymo.github.io/projetos/bguide/calculo-1.pdf), [**Diretório GitHub**](https://github.com/BGeronymo/Bguide/tree/master/Calculo 1)
+**Link**: [**Visualizar PDF**](https://bgeronymo.github.io/projetos/bguide/Calculo-1.pdf), [**Diretório GitHub**](https://github.com/BGeronymo/Bguide/tree/master/Calculo 1)
