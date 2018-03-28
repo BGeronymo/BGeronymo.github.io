@@ -13,7 +13,7 @@ image_preview = "BGuide1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Ensino"]
+tags = ["Cálculo"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,4 +43,4 @@ selecionados do livro *Um Curso de Cálculo, Volume 1, 5ª Edição* de *Hamilto
 Luiz Guidorizzi*. Traz diversos recursos computacionais para auxiliar na
 visualização do problema e no aprendizado da linguagem *R*.
 
-**Link**: [**Visualizar PDF**](https://bgeronymo.github.io/projetos/bguide/Calculo-1.pdf), [**Diretório GitHub**](https://github.com/BGeronymo/Bguide/tree/master/Calculo 1)
+**Links**: [**Visualizar PDF**](https://bgeronymo.github.io/projetos/bguide/Calculo-1.pdf), [**Diretório GitHub**](https://github.com/BGeronymo/Bguide/tree/master/Calculo 1)

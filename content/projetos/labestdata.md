@@ -13,7 +13,7 @@ image_preview = "labestData.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Coletivos"]
+tags = ["R"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://gitlab.c3sl.ufpr.br/pet-estatistica/labestData"

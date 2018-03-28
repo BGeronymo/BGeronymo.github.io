@@ -33,12 +33,12 @@ filter_default = 0
 #  tag = "*"
 
 [[filter]]
-  name = "Ensino"
-  tag = ".Ensino"
+  name = "Cálculo"
+  tag = ".Cálculo"
 
 [[filter]]
-  name = "Projetos Coletivos"
-  tag = ".Coletivos"
+  name = "R-project"
+  tag = ".R"
 
 #[[filter]]
 #  name = "Other"
