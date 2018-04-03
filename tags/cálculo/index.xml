@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cálculo on Bruno Geronymo</title>
+    <link>https://bgeronymo.github.io/tags/c%C3%A1lculo/</link>
+    <description>Recent content in Cálculo on Bruno Geronymo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Bruno Geronymo</copyright>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bgeronymo.github.io/tags/c%C3%A1lculo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BGuide</title>
+      <link>https://bgeronymo.github.io/projetos/bguide/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/bguide/</guid>
+      <description>Guia de Estudos para Estatística e Matemática O BGuide é um material que reúne grandes obras das áreas de estatística e matemática com o objetivo de sintetizar esses materiais e apresentar a resolução de exercícios selecionados dos livros. O material busca incluir soluções no software R de computação estatística. O projeto é desenvolvido por Bruno Geronymo, estudante de Estatística na Universidade Federal do Paraná (UFPR). O nome BGuide é uma referência ao nome e sobrenome do autor do projeto e a palavra Guide, ou seja, trata-se de um &amp;ldquo;Guia de Estudos do Bruno Geronymo&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos Básicos Para Estatística - CE080</title>
+      <link>https://bgeronymo.github.io/projetos/pse-2018/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgeronymo.github.io/projetos/pse-2018/</guid>
+      <description>Os materiais abaixo buscam auxiliar na compreensão e nos estudos dos assuntos tratados na matéria Fundamentos Básicos para Estatística (CE080) ministrada pela professora Fernanda Buhrer Rizzato no primeiro semestre de 2018 para os candidatos presentes na terceira fase de seleção de acadêmicos do curso de Estatística da Universidade Federal do Paraná (UFPR).
+Materiais Desenvolvidos Material de Apoio - CE080 (Pré-cálculo) Desenvolvido por Bruno Geronymo (Estudante de Estatística na UFPR), Matheus Born Cabús (Estudante de Estatística na UFPR) e orientado pela Fernanda Buhrer Rizzato (Professora do Departamento de Estatística da UFPR).</description>
+    </item>
+    
+  </channel>
+</rss>

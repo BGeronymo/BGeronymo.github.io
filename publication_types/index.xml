@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Bruno Geronymo</title>
+    <link>https://bgeronymo.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Bruno Geronymo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2018 Bruno Geronymo</copyright>
+    
+	<atom:link href="https://bgeronymo.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
