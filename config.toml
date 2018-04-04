@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Universidade Federal do Paraná", url = "http://www.ufpr.br/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "bruno5.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bruno4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "geronymobruno@hotmail.com"
   address = "Curitiba-PR, Brasil"
   office_hours = ""
